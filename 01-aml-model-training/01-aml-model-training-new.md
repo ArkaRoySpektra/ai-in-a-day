@@ -74,7 +74,7 @@ The high-level steps covered in the lab are:
 
     >**Note**: If you launched Azure Machine Learning Studio right after your lab environment was provisioned, you might find the compute instance in a provisioning state. In this case, wait a few minutes until it changes its status to `Running`.
 
-1. In the Azure Machine Learning Studio under **Compute** (1), open the **Terminal** (2) environment.
+1. In the Azure Machine Learning Studio under **Compute** **(1)**, open the **Terminal** **(2)** environment.
     
    ![](./media/mlterminal.png)
    
